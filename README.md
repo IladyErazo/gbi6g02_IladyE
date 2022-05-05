@@ -1,2 +1,12 @@
-# gbi6g02_IladyE
-Este es el repositorio de la clase de Bioinformática semestre 2022I
+#  Bioinformatica 2022I
+## Datos Personales
+- Erazo Villalta Ilady Raquel
+- ingeniera en Biotecnologia 
+- Quito
+- Mestiza
+- Españñlol
+
+## Detalles Del Equipo
+MacBook Pro (Retina, 13-inch, Early 2015)
+Procesador 2,7 GHz Intel Core i5 de dos núcleos
+Memora  8 GB 1867 MHz DDR3
