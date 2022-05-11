@@ -12,3 +12,4 @@ Procesador 2,7 GHz Intel Core i5 de dos núcleos
 Memora  8 GB 1867 MHz DDR3
 ## Ejecucion 
 En este repositorio se tiene alamcenado las tareas, la data y los examenes de la clase de bioinformatica 
+uso de GibHUt desktop para control de la version 
